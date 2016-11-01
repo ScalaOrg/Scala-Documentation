@@ -7,6 +7,8 @@
  * [Scala Test User Guide](http://www.scalatest.org/user_guide/selecting_a_style)
  * [Getting Started with sbt](http://www.scala-sbt.org/0.13/docs/Getting-Started.html)
  * [Twitter Scala School](http://twitter.github.io/scala_school/)
+ * [Scala Root Package](http://www.scala-lang.org/api/current/#package)
+ * [sbt Tutorial](https://github.com/ScalaOrg/52-technologies-in-2016/tree/master/02-sbt)
 
 ## IntelliJ
  - You can quickly find all places where a particular class, method or variable is used in the whole project by positioning the caret at the symbol's name or at its usage in code and pressing ⌥F7 (Edit | Find | Find Usages in the popup menu).
