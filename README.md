@@ -4,6 +4,9 @@
  * [Reactive Manifesto](http://www.reactivemanifesto.org/)
  * [Lightbend](https://www.lightbend.com/account)
  * [SCALA 2.12.0-RC2](http://scala-lang.org/news/2.12.0-RC2)
+ * [Scala Test User Guide](http://www.scalatest.org/user_guide/selecting_a_style)
+ * [Getting Started with sbt](http://www.scala-sbt.org/0.13/docs/Getting-Started.html)
+ * [Twitter Scala School](http://twitter.github.io/scala_school/)
 
 ## IntelliJ
  - You can quickly find all places where a particular class, method or variable is used in the whole project by positioning the caret at the symbol's name or at its usage in code and pressing ⌥F7 (Edit | Find | Find Usages in the popup menu).
